@@ -1,0 +1,14 @@
+{
+  "name": "exercicios-poo",
+  "version": "1.0.0",
+  "description": "Exercicios Orientação a objeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  },
+  "author": "João Vitor Wolfart",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
